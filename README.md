@@ -1,2 +1,2 @@
-# Meus  Projetos
- Curso Git e Github
+# Curso Git
+ Repositório criado para aprendizado.
