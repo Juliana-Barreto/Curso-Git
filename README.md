@@ -1,4 +1,4 @@
 # Curso Git
- Repositório criado para aprendizado.
+ Created to learning.
  
- Linha adicionada diretamente pelo site.
+ Line add from the github's website
