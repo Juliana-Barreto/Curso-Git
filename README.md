@@ -1,4 +1,4 @@
-# Git Course
- Created to learning.
+# Curso git
+ Criado para aprendizado.
  
- Line add from the github's website.
+ Linha adicionada diretamente do site.
